@@ -1,4 +1,3 @@
-// Versão simplificada para ambientes com restrições
 #define NUM_TERRITORIOS 5
 #define TAM_NOME 50
 #define TAM_COR 20
